@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Ryan-UI"
-  text: "助力设计开发者「更灵活」地搭建出「更美」的产品"
+  text: "Design by Ryan"
   tagline: My great project tagline
   actions:
     - theme: brand
