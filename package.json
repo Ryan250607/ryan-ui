@@ -6,7 +6,8 @@
   "scripts": {
     "dev":"pnpm --filter @ryan-ui/play dev",
     "docs:dev":"pnpm --filter @ryan-ui/docs dev",
-    "docs:build":"pnpm --filter @ryan-ui/docs build"
+    "docs:build":"pnpm --filter @ryan-ui/docs build",
+    "test":"echo todo"
   },
   "keywords": [],
   "author": "",
